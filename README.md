@@ -1,5 +1,4 @@
-# APONTI - Formação em Testes de Software
-:computer:
+# APONTI - Formação em Testes de Software  :computer:
 
 Bem-Vindo
 
