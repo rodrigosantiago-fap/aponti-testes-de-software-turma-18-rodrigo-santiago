@@ -4,11 +4,11 @@ Bem-Vindo
 
 Este repositório reúne materiais utilizados na  formação em Teste de Software, organizados em trilhas de aprendizados.
 
-**objetivos**
+**Objetivos**
 
 - Construir um portifólio Profissional
 
-- ---
+----
 
 **Trilhas**
 
