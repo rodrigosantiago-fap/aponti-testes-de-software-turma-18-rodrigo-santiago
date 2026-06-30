@@ -41,10 +41,10 @@ Dentro de cada módulo você encontrará:
 
 ## Projetos
 
--Sistema da Clinica de Psicologia
+:heavy_check_mark: Sistema da Clinica de Psicologia
 
 ---
 
-## Licença
+## Liceça
 
 MIT
