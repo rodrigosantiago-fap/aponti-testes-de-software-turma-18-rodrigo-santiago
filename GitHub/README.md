@@ -25,7 +25,7 @@
 ---
 
 ## Exercicios
--Exercicio 01
+- Exercicio 01
 
 ---
 
