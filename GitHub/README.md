@@ -15,12 +15,12 @@
 
 ## Conteudo
 
--Introdução
--Git
--GitHub
--Branches
--Merges
--Pull Request
+1. Introdução
+2. Git
+3. GitHub
+4. Branches
+5. Merges
+6. Pull Request
 
 ---
 
