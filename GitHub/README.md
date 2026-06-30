@@ -1,7 +1,7 @@
 # Aulas de GitHub :computer:
 ## Git e GitHub
 
-### Objetivos
+### Objetivos :pushpin:
 
 ##### Ao concluir este módulo você será capaz de: #####
 
