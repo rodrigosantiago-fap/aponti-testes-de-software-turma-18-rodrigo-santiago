@@ -2,7 +2,9 @@
 
 Bem-Vindo
 
-Este repositório reúne materiais utilizados na  formação em Teste de Software, organizados em trilhas de aprendizados.
+~~~python
+"Este repositório reúne materiais utilizados na  formação em Teste de Software, organizados em trilhas de aprendizados."
+~~~~
 
 **objetivos**
 
@@ -45,6 +47,6 @@ Dentro de cada módulo você encontrará:
 
 ---
 
-## Liceça
+## Licença
 
 MIT
