@@ -3,7 +3,7 @@
 
 :pushpin: **Objetivos**
 
-**_ Ao concluir este módulo você será capaz de: _**
+**_Ao concluir este módulo você será capaz de:_**
 
 - Criar repositórios
 - Utilizar commits
