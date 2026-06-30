@@ -1,4 +1,4 @@
-# APONTI - Formação em Testes de Software
+# APONTI - Formação em Testes de Software :computer:
 
 Bem-Vindo
 
@@ -24,7 +24,7 @@ Este repositório reúne materiais utilizados na  formação em Teste de Softwar
 
 ---
 
-**Como utilizar**
+**Como utilizar** 
 
 Cada pasta representa um módulo do curso.
 
