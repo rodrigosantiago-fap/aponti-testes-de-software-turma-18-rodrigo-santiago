@@ -26,7 +26,7 @@ Este repositório reúne materiais utilizados na  formação em Teste de Softwar
 
 **Como utilizar** 
 
-*Cada pasta representa um módulo do curso.*
+**_Cada pasta representa um módulo do curso._**
 
 Dentro de cada módulo você encontrará:
 
