@@ -25,7 +25,7 @@
 ---
 
 :pushpin: **Exercicios**
-- Exercicio 01
+- [Exercicio 01] (https://github.com/rodrigosantiago-fap/aponti-testes-de-software-turma-18-rodrigo-santiago/blob/main/01-Git-Hub/README.md)
 
 ---
 
