@@ -47,4 +47,4 @@ Dentro de cada módulo você encontrará:
 
 ## Licença
 
-MIT
+:mortar_board: MIT
