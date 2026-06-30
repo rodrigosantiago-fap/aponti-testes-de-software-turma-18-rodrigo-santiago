@@ -41,7 +41,7 @@ Dentro de cada módulo você encontrará:
 
 ## Projetos
 
-:heavy_check_mark: Sistema da Clinica de Psicologia
+:heavy_check_mark:  Sistema da Clinica de Psicologia
 
 ---
 
