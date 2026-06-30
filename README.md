@@ -4,13 +4,13 @@ Bem-Vindo
 
 Este repositório reúne materiais utilizados na  formação em Teste de Software, organizados em trilhas de aprendizados.
 
-##**objetivos**
+**objetivos**
 
 - Construir um portifólio Profissional
 
 - ---
 
-##**Trilhas**
+**Trilhas**
 
 |Módulo | Conteúdo |
 |-------|--------|
@@ -24,7 +24,7 @@ Este repositório reúne materiais utilizados na  formação em Teste de Softwar
 
 ---
 
-##**Como utilizar**
+**Como utilizar**
 
 Cada pasta representa um módulo do curso.
 
