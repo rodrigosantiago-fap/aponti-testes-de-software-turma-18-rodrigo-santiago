@@ -4,7 +4,7 @@ Bem-Vindo
 
 ~~~python
 "Este repositório reúne materiais utilizados na  formação em Teste de Software, organizados em trilhas de aprendizados."
-~~~~
+~~~
 
 **objetivos**
 
