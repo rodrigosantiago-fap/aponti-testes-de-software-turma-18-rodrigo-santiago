@@ -1,4 +1,4 @@
-# Aulas de GitHub  :computer:
+# Aulas de GitHub :computer:
 ## Git e GitHub
 
 ### Objetivos
