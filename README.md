@@ -30,12 +30,12 @@ Este repositório reúne materiais utilizados na  formação em Teste de Softwar
 
 Dentro de cada módulo você encontrará:
 
--Slides
--Tutoriais
--Exercicios
--Projetos
--Desafios
--Leituras complementares
+1. Slides
+2. Tutoriais
+3. Exercicios
+4. Projetos
+5. Desafios
+6. Leituras complementares
 
 ---
 
