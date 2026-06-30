@@ -3,17 +3,17 @@
 
 ### Objetivos
 
-Ao concluir este módulo você será capaz de:
+##### Ao concluir este módulo você será capaz de: #####
 
--criar repositórios
--utilizar commits
--trabalhar com branches
--resolver conflitos
--abrir Pull Requests
+- criar repositórios
+- utilizar commits
+- trabalhar com branches
+- resolver conflitos
+- abrir Pull Requests
 
 ---
 
-##Conteudo
+## Conteudo
 
 -Introdução
 -Git
@@ -24,11 +24,11 @@ Ao concluir este módulo você será capaz de:
 
 ---
 
-##Exercicios
+## Exercicios
 -Exercicio 01
 
 ---
 
-##Projeto
+## Projeto
 
 Criar um portfólio utilizando GitHub.
