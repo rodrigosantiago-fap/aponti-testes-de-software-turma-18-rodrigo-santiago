@@ -5,11 +5,11 @@
 
 ##### Ao concluir este módulo você será capaz de: #####
 
-- criar repositórios
-- utilizar commits
-- trabalhar com branches
-- resolver conflitos
-- abrir Pull Requests
+- Criar repositórios
+- Utilizar commits
+- Trabalhar com branches
+- Resolver conflitos
+- Abrir Pull Requests
 
 ---
 
