@@ -1,7 +1,7 @@
 # Aulas de GitHub :computer:
 ## Git e GitHub
 
-### Objetivos :pushpin:
+:pushpin: ### Objetivos
 
 ##### Ao concluir este módulo você será capaz de: #####
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Conteudo
+:pushpin: ## Conteudo
 
 1. Introdução
 2. Git
@@ -24,11 +24,11 @@
 
 ---
 
-## Exercicios
+:pushpin: ## Exercicios
 - Exercicio 01
 
 ---
 
-## Projeto
+:pushpin: ## Projeto
 
 Criar um portfólio utilizando GitHub.
