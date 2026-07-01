@@ -87,7 +87,7 @@ python src/main.py
 ~~~
 
 ### Dicas rapidas Git e Github
-Principais comandos do **_git_** [Clique aqui](https://github.com/rodrigosantiago-fap/aponti-testes-de-software-turma-18-rodrigo-santiago/blob/main/GitHub-Modulo-01/Exercicio-PROJETO-GITHUB/dicas%20de%20git.pdf)
+Principais comandos do **_Git_** [Clique aqui](https://github.com/rodrigosantiago-fap/aponti-testes-de-software-turma-18-rodrigo-santiago/blob/main/GitHub-Modulo-01/Exercicio-PROJETO-GITHUB/dicas%20de%20git.pdf)
 
 ### Site do GitHub
 Clique [aqui](https://github.com/?locale=pt-br) para acessar a página do **GitHub**.
@@ -96,7 +96,7 @@ Clique [aqui](https://github.com/?locale=pt-br) para acessar a página do **GitH
 Clique [aqui](https://git-scm.com/install/) para acessar a página do **_Git_** e baixar o app **_Gitbash_**.
 
 ## Autor
-Desenvolvido por Seu Rodrigo Santiago
+Desenvolvido por: **Rodrigo Santiago**
 
 **GitHub:** [@rodrigosantiago-fap](https://github.com/rodrigosantiago-fap)
 
