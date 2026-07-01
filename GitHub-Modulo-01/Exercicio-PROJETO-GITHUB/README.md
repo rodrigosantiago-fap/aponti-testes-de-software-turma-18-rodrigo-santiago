@@ -103,3 +103,5 @@ Desenvolvido por: **Rodrigo Santiago**
 **LinkedIn:** [Rodrigo Santiago](https://www.linkedin.com/feed/)
 
 **Email:** rodrigo2026fap@gmail.com
+
+>"Em algum lugar, alguma coisa incrível está esperando para ser descoberta.”(Carl Sagan)
