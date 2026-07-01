@@ -1,4 +1,13 @@
-# Guia Fundamental do GitHub: Da Teoria à Prática :computer:
+# Guia Fundamental do GitHub: Da Teoria à Prática :computer:   
+![GitHub - Marcos-Vitor123/git-e-github: Curso da Alura - formação](https://repository-images.githubusercontent.com/422031746/245484d7-7c89-4aed-92e4-e5cc6341ef9e)
+
+
+
+
+
+
+
+
 Este é um projeto modelo estruturado como um README.md profissional. Ele serve tanto como um guia prático para iniciantes quanto como um exemplo de documentação limpa, organizada e visualmente atraente para o seu portfólio.
 
 ## Índice
@@ -77,5 +86,11 @@ if __name__ == "__main__":
 python src/main.py
 ~~~
 
-## Dicas rapidas github
-[Clique aqui](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)
+### Dicas rapidas Git e Github
+Principais comandos do **_git_** [Clique aqui](https://github.com/rodrigosantiago-fap/aponti-testes-de-software-turma-18-rodrigo-santiago/blob/main/GitHub-Modulo-01/Exercicio-PROJETO-GITHUB/dicas%20de%20git.pdf)
+
+### Site do GitHub
+Clique [aqui](https://github.com/?locale=pt-br) para acessar a página do **GitHub**.
+
+### Link pra baixar Git
+Clique [aqui](https://git-scm.com/install/) para acessar a página do **_Git_** e baixar o app **_Gitbash_**.
