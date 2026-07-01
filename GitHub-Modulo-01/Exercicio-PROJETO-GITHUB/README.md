@@ -94,3 +94,12 @@ Clique [aqui](https://github.com/?locale=pt-br) para acessar a página do **GitH
 
 ### Link pra baixar Git
 Clique [aqui](https://git-scm.com/install/) para acessar a página do **_Git_** e baixar o app **_Gitbash_**.
+
+## Autor
+Desenvolvido por Seu Rodrigo Santiago
+
+**GitHub:** [@rodrigosantiago-fap](https://github.com/rodrigosantiago-fap)
+
+**LinkedIn:** [Rodrigo Santiago](https://www.linkedin.com/feed/)
+
+**Email:** rodrigo2026fap@gmail.com
