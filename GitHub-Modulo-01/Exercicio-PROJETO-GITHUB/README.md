@@ -1,4 +1,4 @@
-# Guia Fundamental do GitHub: Da Teoria à Prática :computer:   
+# Guia Pratico do GitHub :computer:   
 ![GitHub - Marcos-Vitor123/git-e-github: Curso da Alura - formação](https://repository-images.githubusercontent.com/422031746/245484d7-7c89-4aed-92e4-e5cc6341ef9e)
 
 
@@ -8,7 +8,7 @@
 
 
 
-Este é um projeto modelo estruturado como um README.md profissional. Ele serve tanto como um guia prático para iniciantes quanto como um exemplo de documentação limpa, organizada e visualmente atraente para o seu portfólio.
+Este é um projeto modelo estruturado como um README.md profissional, servindo como um guia de consulta rápida para desenvolvedores iniciantes.
 
 ## Índice
 1. Objetivo
