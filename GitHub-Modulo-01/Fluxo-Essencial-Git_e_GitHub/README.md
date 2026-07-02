@@ -1,13 +1,15 @@
-1. Criar um ## Repositório
+## 1. Criar um Repositório :file_folder:
 O repositório (ou "repo") é a pasta onde o Git vai rastrear as alterações do seu projeto.
 
-No GitHub (Remoto)
-Acesse o GitHub e clique no botão "+" (no canto superior direito) -> New repository.
+### No GitHub (Remoto)
+1. Acesse o GitHub e clique no botão "+" (no canto superior direito) -> **New repository**.
 
-Dê um nome ao repositório, escolha se será Public ou Private e clique em Create repository.
+2. Dê um nome ao repositório, escolha se será Public ou Private e clique em **Create repository**.
 
-Na sua Máquina (Local)
+### Na sua Máquina (Local)
 Abra o terminal na pasta do seu projeto e junte o seu código local ao GitHub:
+
+~~~bash
 
 Bash
 # Inicializa o Git na pasta local
@@ -24,10 +26,12 @@ git remote add origin https://github.com/seu-usuario/seu-repositorio.git
 
 # Envia o código para o GitHub
 git push -u origin main
-2. Utilizar Commits
-Um commit é como um "checkpoint" ou uma foto do estado atual do seu código. Sempre que fizer uma alteração importante, faça um commit.
-
+~~~
+## 2. Utilizar Commits :camera:
+Um **commit** é como um _"checkpoint"_ ou uma foto do estado atual do seu código. Sempre que fizer uma alteração importante, faça um commit.
+~~~bash
 Bash
+
 # 1. Veja o que mudou no projeto
 git status
 
@@ -37,9 +41,11 @@ git add .                    # Para todos os arquivos modificados
 
 # 3. Salve a alteração com uma mensagem explicativa
 git commit -m "Adiciona funcionalidade de login"
-3. Trabalhar com Branches
-Branches (ramos) servem para você desenvolver novas funções sem mexer ou estragar o código principal que já está funcionando (main).
+~~~
+## 3. Trabalhar com Branches :deciduous_tree:
+**Branches** (ramos) servem para você desenvolver novas funções sem mexer ou estragar o código principal que já está funcionando denominado: (**branch `main`**).
 
+~~~bash
 Bash
 # Criar uma nova branch e já entrar nela
 git checkout -b nova-funcionalidade
@@ -52,43 +58,46 @@ git checkout main
 
 # Para enviar a sua nova branch para o GitHub
 git push origin nova-funcionalidade
-4. Abrir Pull Requests (PR)
-O Pull Request é o momento em que você avisa ao time (ou a si mesmo) que terminou uma tarefa na sua branch e quer juntá-la à branch principal (main).
+~~~
+## 4. Abrir Pull Requests (PR) :heavy_plus_sign:
+O **Pull Request** é o momento em que você avisa ao time (ou a si mesmo) que terminou uma tarefa na sua branch e quer juntá-la à branch principal (`main`).
 
-Vá até a página do seu repositório no GitHub.
+1. Vá até a página do seu repositório no GitHub.
 
-Um botão amarelo costuma aparecer automaticamente: "Compare & pull request". Clique nele.
+2. Um botão amarelo costuma aparecer automaticamente: **"Compare & pull request"**. Clique nele.
 
-Adicione um título e uma descrição breve do que você fez.
+3. Adicione um título e uma descrição breve do que você fez.
 
-Clique em Create pull request.
+4. Clique em **Create pull request**.
 
-Se estiver tudo certo (e sem conflitos), clique em Merge pull request para juntar o código.
+5. Se estiver tudo certo (e sem conflitos), clique em **Merge pull request** para juntar o código.
 
-5. Resolver Conflitos
-Um conflito acontece quando duas pessoas (ou você em branches diferentes) mudam a mesma linha do mesmo arquivo e o Git não sabe qual versão escolher.
+## 5. Resolver Conflitos
+Um conflito acontece quando duas pessoas (ou você em branches diferentes) mudam **_a mesma linha do mesmo arquivo_** e o Git não sabe qual versão escolher.
 
-Como resolver:
-Ao tentar dar um git merge ou atualizar o código, o Git vai avisar que há um conflito.
+### Como resolver:
+1. Ao tentar dar um `git merge` ou atualizar o código, o Git vai avisar que há um conflito.
+2. Abra o arquivo conflitante no seu editor de código (como o VS Code).
+3. Você verá marcações como estas direto no texto:
 
-Abra o arquivo conflitante no seu editor de código (como o VS Code).
-
-Você verá marcações como estas direto no texto:
-
+~~~plaintext
 Plaintext
 <<<<<<< HEAD
 Meu código lindo que fiz na minha branch.
 =======
 Código que um colega alterou e já estava na main.
 >>>>>>> main
-Ação: Apague as linhas de marcação (<<<<<<<, =======, >>>>>>>) e escolha qual texto deve ficar (ou combine os dois).
+~~~
+1. **Ação**: Apague as linhas de marcação (`<<<<<<<, =======, >>>>>>>`) e escolha qual texto deve ficar (ou combine os dois).
+2. Salve o arquivo e finalize no terminal:
 
-Salve o arquivo e finalize no terminal:
-
+~~~bash
 Bash
 git add .
 git commit -m "Resolve conflito no arquivo X"
 git push origin sua-branch
-🚀 Resumo do Fluxo Diário
+~~~
+
+## Resumo do Fluxo Diário
 Se estivesse trabalhando em equipe ou em um projeto organizado, seu dia a dia seria exatamente assim:
-git checkout -b minha-tarefa ➔ Cria código ➔ git add . ➔ git commit -m "Mapeia dados" ➔ git push origin minha-tarefa ➔ Abre Pull Request no GitHub.
+` git checkout -b minha-tarefa ` ➔ _**Cria código**_➔ `git add .` ➔ `git commit -m "Mapeia dados" `➔ `git push origin minha-tarefa` ➔ _**Abre Pull Request no GitHub**_.
