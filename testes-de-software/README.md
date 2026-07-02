@@ -5,7 +5,7 @@
 r: É uma forma de garantir uma entrega de um produto ou serviço confiavel e seguro minimizando falhas.
 
 #### 2. Por que testar é importante para o negócio
-r: É importante pois pode garantir menos erros e com isso menos retrabalhos e gastos de recursos apos a inplementação do software.
+r: É importante pois pode garantir menos erros e com isso menos retrabalhos e gastos de recursos apos a implementação do software.
 
 #### 3. O que caracteriza um software com qualidade
 r: Ser eficiente, ter segurança, bom funcionamento, ser confiavel e ter uma boa usuabilidade para o seu usuario.
