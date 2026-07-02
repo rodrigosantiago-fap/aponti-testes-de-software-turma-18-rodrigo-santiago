@@ -10,7 +10,6 @@
 - Trabalhar com branches
 - Resolver conflitos
 - Abrir Pull Requests
-
 ---
 
 :pushpin: **Conteudo**
