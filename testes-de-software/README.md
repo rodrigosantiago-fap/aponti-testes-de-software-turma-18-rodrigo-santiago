@@ -2,7 +2,7 @@
 ### Produzir um texto curto (até 1 página) que responda:
 
 #### 1. O que é teste de software (com suas palavras)
-r: É uma forma de garantir a entrega de um produto ou serviço confiavel e seguro minimizando falhas.
+r: É uma forma de processo para garantir a entrega de um produto ou serviço confiavel e seguro minimizando falhas.
 
 #### 2. Por que testar é importante para o negócio
 r: É importante pois pode garantir menos erros e com isso menos retrabalhos e gastos de recursos apos a implementação do software.
