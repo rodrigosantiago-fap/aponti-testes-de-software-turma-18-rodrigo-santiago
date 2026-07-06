@@ -7,7 +7,7 @@
 
  - #### Em que fase do ciclo o defeito poderia ter sido encontrado?
  Conforme os erros que foram encontrados a identificação deles poderia ter sido antecipada a partir da fase de implementação, durante a realização de testes unitários e de integração evitando problemas como os identificados em banco de dados do sistema, exemplo: **_Cadastros inválidos_**, **_Busca inconsistente_** e **_Dados inconsistentes_**.
-  A fase do ciclo de teste também poderia ter colaborado na identificação de erros que garantiriam correções antes da implementação do sistema, **_testes funcionais e não funcionais_** identificariam que o software estaria operando com qualidade, e na fase de **_validação do comportamento esperado_** identificando melhor o comportamento entre o que foi solicitado e o que foi entregue, a prevenção de falhas na produção como **_testes contínuos e automáticos_** para reduzir erros antes da implementação e o apontamento das falhas em documentação e ferramentas para área responsável se faz importante para minimizar os problemas que foram identificados.
+  A fase do ciclo de teste também poderia ter colaborado na identificação de erros que garantiriam correções antes da implementação do sistema, **_testes funcionais e não funcionais_** identificariam que o software estaria operando com qualidade, juntamente com processos de **_validação do comportamento esperado_** identificando melhor o comportamento entre o que foi solicitado e o que foi entregue, a prevenção de falhas na produção como **_testes contínuos e automáticos_** para reduzir erros antes da implementação e o apontamento das falhas em documentação e ferramentas para área responsável se faz importante para minimizar os problemas que foram identificados.
 
  - ---
 
