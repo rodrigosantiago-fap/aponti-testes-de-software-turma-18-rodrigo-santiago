@@ -15,9 +15,6 @@ Menos uso de testes automaticos e mais frequencia de testes manuais e funcionais
 ----------------------------
 
 ### Quais desafios atuais de QA mais impactam projetos reais?
-- Falta de comunicação entre equipes.
-- Dificuldade ou não implementação do projeto ao uso da Inteligencia Artificial e Automação.
-- Flexibilidade e adaptação as demandas.
-- Documentação: Uma documentação clara e direta aumenta a eficiencia do projeto.
+Atualmente a falta de clareza de requisitos ou requistos incompletos podem resultar em casos de testes que não atendem ao projeto, testes insuficientes ou com pouco periodo de tempo também impactam projetos reais pois podem não cobrir o projeto suficiente. A falta de comunicação entre equipes de desenvolvedores pode não garantir prazos e solução de erros. O uso de ferramentas de gestão de dados e uso de automação e novas tecnologias com avanços tecnologicos acelerados.
 
                         
