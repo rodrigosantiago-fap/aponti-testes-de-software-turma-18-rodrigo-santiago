@@ -14,6 +14,10 @@ Documentação detalhada e completa (planos de teste, casos de teste e relatóri
 Menos uso de testes automaticos e mais frequencia de testes manuais e funcionais | Testes automaticos integrado ao desenvolvimento continuos e sucessivos.
 ----------------------------
 
-##### Quais desafios atuais de QA mais impactam projetos reais?
+### Quais desafios atuais de QA mais impactam projetos reais?
+- Falta de comunicação entre equipes.
+- Dificuldade ou não implementação do projeto ao uso da Inteligencia Artificial e Automação.
+- Flexibilidade e adaptação as demandas.
+- Documentação: Uma documentação clara e direta aumenta a eficiencia do projeto.
 
                         
