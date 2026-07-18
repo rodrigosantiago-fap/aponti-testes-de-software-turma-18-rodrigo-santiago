@@ -12,7 +12,7 @@ ATRIBUTO | ÁGIL | CASCATA
 **QUALIDADE CONTINUA** | :white_check_mark: | :x:
 **AUTONOMIA** | :white_check_mark: | :x:
 **PREVISIBILIDADE** | :x:| :white_check_mark:
-
+---
 **2. Indicar:**
 Como os testes acontecem em cada modelo
 Vantagens x Limitações
