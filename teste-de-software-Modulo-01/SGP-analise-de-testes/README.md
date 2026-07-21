@@ -20,15 +20,16 @@
 #### Dado um sistema fictício, os alunos deverão analisar suas funcionalidades e indicar:
 
 - Quais testes seriam unitários:
-- 
-  Testes unitarios seriam realizados durante o desenvolvimento do software verificando partes do codigo e confirmando as entradas e saidas podem ser realizado de forma manual ou automatizada para identificar possiveis falhas. Ex: Integração com serviço de pedidos, cálculo automático do valor total do pedido.
+Testes unitarios seriam realizados durante o desenvolvimento do software verificando partes do codigo e confirmando as entradas e saidas esses testes podem ser realizado de forma automatizada ou manual para identificar possiveis falhas. Ex: Função Cálculo automático do valor total do pedido.
 
 - Quais testes seriam de integração:
-  Os testes de integração seriam a combinação dos codigos desenvolvidos do software verificando a interação entre partes do sistema e para garantir as funcionalidades com segurança das aplicações. ex: Banco de dados.
+  Os testes de integração seriam a combinação dos codigos desenvolvidos do software verificando a interação entre partes do sistema e para garantir as funcionalidades com segurança das aplicações.
+  Ex: Cálculo automático do valor total do pedido e o pedido deve conter pelo menos um.
+  Consulta de produtos disponíveis e Integração com banco de dados de produtos
 
-- Quais testes seriam de sistema
+- Quais testes seriam de sistema:
 
-- Quais testes seriam de aceitação
+- Quais testes seriam de aceitação:
 
 #### Justificar escolhas com base no objetivo e no nível do teste
 
