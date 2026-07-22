@@ -35,7 +35,7 @@ Usuários podem acessar por desktop, tablet ou celular | Compatibilidade| Sistem
 Usuários simultâneos | Performance | Queda, Lentidão, Sobrecarga
 Usuários devem estar autenticados para agendar consultas | Segurança | Acesso ao sistema de pessoas não autorizadas
 Dados pessoais devem ser protegidos conforme boas práticas de segurança | Segurança | Vazamento de dados
-Cadastro e autenticação de usuários| Usabilidade / Segurança | Facilidade no cadastro de usuários e proteção contra falhas de cadastros ou cadastros indevidos
+Cadastro e autenticação de usuários| Usabilidade / Segurança | Dificuldade no cadastro de usuários ou dados e falhas no cadastro ou cadastros indevidos ou de forma ivalida
 Consulta de especialidades e profissionais disponíveis | Usabilidade | Dificuldade ou erro em busca de um especialista ou profissional
-Agendamento, cancelamento e visualização de consultas | Usabilidade | Erros ou não localização de funções ou falhas de funcionalidades
+Agendamento, cancelamento e visualização de consultas | Usabilidade | Erros ou não localização de funções ou falhas de funcionalidades, datas e horarios invalidas
 Área administrativa para gestão de horários | Usabilidade | Falhas e conflitos de horários de atendimento ou escala de trabalho.
