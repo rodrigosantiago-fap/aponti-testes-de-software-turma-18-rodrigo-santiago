@@ -26,9 +26,11 @@
 
 **Cada item do checklist deve indicar o que será verificado e qual o risco associado.**
 ---
-**CHECKLIST DE TESTES NÃO FUNCIONAIS**
 
-- **Performance** 
-- **Segurança**
-- **Usabilidade**
-- **Compatibilidade**
+**CHECKLIST DE TESTES NÃO FUNCIONAIS**
+TESTE | VERIFICADO | RISCO
+------|------------|------
+Performance|Usuários simutâneos| Queda, Lentidão, Sobrecarga
+Segurança|Autenticação / Proteção de Dados|Acesso não autorizado / Vazamento de dados
+Usabilidade|Agendamento, cancelamento e visualização de consultas| Dificuldade em identificar interfaces
+Compatibilidade|Acessado via navegador web / Usuários podem acessar por desktop, tablet ou celular| Sistema pode não funcionar corretamente via navegador web especificado apresentar erro em determinado dispositivo ou resolução de tela.
