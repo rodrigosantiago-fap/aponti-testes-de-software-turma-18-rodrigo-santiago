@@ -37,5 +37,5 @@ Usuários devem estar autenticados para agendar consultas | Segurança | Acesso 
 Dados pessoais devem ser protegidos conforme boas práticas de segurança | Segurança | Vazamento de dados
 Cadastro e autenticação de usuários| Usabilidade / Segurança | Facilidade no cadastro de usuários e proteção contra falhas de cadastros ou cadastros indevidos
 Consulta de especialidades e profissionais disponíveis | Usabilidade | Dificuldade ou erro em busca de um especialista ou profissional
-Agendamento, cancelamento e visualização de consultas | Usabilidade | Erros ou nao localização de funções ou falhas de funcinalidades
+Agendamento, cancelamento e visualização de consultas | Usabilidade | Erros ou não localização de funções ou falhas de funcionalidades
 Área administrativa para gestão de horários | Usabilidade | Falhas e conflitos de horários de atendimento ou escala de trabalho.
