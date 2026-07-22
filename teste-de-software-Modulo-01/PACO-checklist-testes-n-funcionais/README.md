@@ -28,9 +28,14 @@
 ---
 
 **CHECKLIST DE TESTES NÃO FUNCIONAIS**
-TESTE | VERIFICADO | RISCO
+VERIFICADO | TESTE | RISCO
 ------|------------|------
-Performance|Usuários simutâneos| Queda, Lentidão, Sobrecarga
-Segurança|Autenticação / Proteção de Dados|Acesso não autorizado / Vazamento de dados
-Usabilidade|Agendamento, cancelamento e visualização de consultas| Dificuldade em identificar interfaces
-Compatibilidade|Acessado via navegador web / Usuários podem acessar por desktop, tablet ou celular| Sistema pode não funcionar corretamente via navegador web especificado apresentar erro em determinado dispositivo ou resolução de tela.
+Sistema Acessado via navegador web | Compatibilidade | Pode não funcionar corretamente via navegador web especifico
+Usuários podem acessar por desktop, tablet ou celular | Compatibilidade| Sistema pode não funcionar corretamente ou apresentar erro em determinado dispositivo ou resolução de tela.
+Usuários simultâneos | Performance | Queda, Lentidão, Sobrecarga
+Usuários devem estar autenticados para agendar consultas | Segurança | Acesso ao sistema de pessoas não autorizadas
+Dados pessoais devem ser protegidos conforme boas práticas de segurança | Segurança | Vazamento de dados
+Cadastro e autenticação de usuários| Usabilidade / Segurança | Facilidade no cadastro de usuários e proteção contra falhas de cadastros ou cadastros indevidos
+Consulta de especialidades e profissionais disponíveis | Usabilidade | Dificuldade ou erro em busca de um especialista ou profissional
+Agendamento, cancelamento e visualização de consultas | Usabilidade | Erros ou nao localização de funções ou falhas de funcinalidades
+Área administrativa para gestão de horários | Usabilidade | Falhas e conflitos de horários de atendimento ou escala de trabalho.
