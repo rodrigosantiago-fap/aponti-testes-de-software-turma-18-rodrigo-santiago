@@ -25,3 +25,10 @@
 4. Compatibilidade
 
 **Cada item do checklist deve indicar o que será verificado e qual o risco associado.**
+---
+**CHECKLIST DE TESTES NÃO FUNCIONAIS**
+
+- **Performance** 
+- **Segurança**
+- **Usabilidade**
+- **Compatibilidade**
