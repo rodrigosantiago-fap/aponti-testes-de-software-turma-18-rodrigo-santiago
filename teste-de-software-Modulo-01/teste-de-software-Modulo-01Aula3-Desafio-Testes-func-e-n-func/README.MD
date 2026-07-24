@@ -44,4 +44,4 @@ quando solicitar busca usando nome ou CPF no sistema de paciente devidamente cad
 então o sistema deverá apresentar registros de status de agendamentos  
 
 A justificativa deve explicar que o teste de aceitação verifica se o sistema atende às 
-necessidades do negócio e pode ser aprovado pelo cliente ou usuário responsável. 
+necessidades do negócio e pode ser aprovado pelo cliente ou usuário responsável.
