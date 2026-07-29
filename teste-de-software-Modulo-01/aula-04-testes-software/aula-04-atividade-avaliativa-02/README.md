@@ -1,7 +1,7 @@
 Atividade Avaliativa :
 Praticar a criação, diferenciação e análise de casos de teste de sistema e de aceitação, utilizando uma estrutura padronizada e justificando tecnicamente cada escolha.  
 ---
-**ETAPA 1** - Compreensão do Cenário um sistema bancário permite que usuários realizem login, acessem sua conta e visualizem seu saldo atual.  
+## ETAPA 1 - Compreensão do Cenário um sistema bancário permite que usuários realizem login, acessem sua conta e visualizem seu saldo atual.  
 ---
 **Tarefa:**
 - **IDENTIFICAR:**
@@ -31,7 +31,7 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 - F05 - USUÁRIO COM SALDO OCULTO
 - ---
 
-## Etapa 2 - Escrever Testes de Sistema  
+## ETAPA 2 - Escrever Testes de Sistema  
 - 2 testes de fluxo principal (caminho feliz)
 - 2 testes de fluxo alternativo
  
@@ -43,6 +43,92 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 - Validar Integração entre telas
 - Não validar regras de negócio complexas
 
+## FLUXO PRINCIPAL (caminho feliz)  
+## ID: TESTE01  
+
+- **TITULO:** LOGIN COM CREDENCIAIS VALIDAS  
+
+- **PRE-CONDIÇÕES:**
+01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
+02. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
+
+- **PASSOS DO TESTE:** 
+01. **PASSO01:** INSERIR DADOS DE USUÁRIO VÁLIDO (CPF)
+02. **PASSO02:** INSERIR SENHA VÁLIDA
+03. **PASSO03:** CLICAR EM ENTRAR
+04. **PASSO04:** AGUARDAR SISTEMA CARREGAR TELA INICIAL
+05. **PASSO05:** SALDO VIZIVEL NA TELA INICIAL
+
+- **RESULTADO ESPERADO:** USUÁRIO AUTORIZADO E SALDO DISPONIVEL NA TELA INICIAL
+---
+## ID: TESTE02  
+
+- **TITULO:** LOGIN COM BIOMETRIA
+
+- **PRE-CONDIÇÕES:**
+01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
+02. USUÁRIO ESTAR CADASTRADO COM BIOMETRIA 
+03. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
+
+- **PASSOS DO TESTE:** 
+01. **PASSO01:** INSERIR DADOS DE USUÁRIO VÁLIDO (CPF)
+02. **PASSO02:** INSERIR DADOS BIOMETRICOS
+04. **PASSO03:** AGUARDAR SISTEMA CARREGAR TELA INICIAL
+05. **PASSO04:** SALDO VIZIVEL NA TELA INICIAL
+
+- **RESULTADO ESPERADO:** SISTEMA DA ACESSO AO USUÁRIO AUTORIZADO VIA BIOMETRIA E SALDO DISPONIVEL NA TELA INICIAL
+
+## FLUXO ALTERNATIVO
+
+## ID: TESTE01  
+
+- **TITULO:** LOGIN COM ID DE USUÁRIO VÁLIDO E SENHA INVÁLIDA
+
+- **PRE-CONDIÇÕES:**
+01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
+02. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
+
+- **PASSOS DO TESTE:** 
+01. **PASSO01:** INSERIR DADOS DE USUÁRIO VÁLIDO (CPF)
+02. **PASSO02:** INSERIR SENHA INVÁLIDA
+03. **PASSO03:** CLICAR EM ENTRAR
+04. **PASSO04:** SISTEMA SUGERE CADASTRO DE BIOMETRIA
+05. **PASSO05:** AGUARDAR RESPOSTA DO SISTEMA
+06. **PASSO06:** SISTEMA INFORMA DADOS INVÁLIDOS
+
+- **RESULTADO ESPERADO:** SISTEMA NÃO É AUTORIZA ACESSO E TELA EXIBE MENSAGEM DADOS DO USUÁRIO INVÁLIDOS
+
+- ## ID: TESTE02  
+
+- **TITULO:** LOGIN COM ID DE USUÁRIO VÁLIDO, SENHA INVÁLIDA E DADOS BIOMETRICOS VALIDO CADASTRADO
+
+- **PRE-CONDIÇÕES:**
+01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
+02. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM DADOS BIOMETRICO
+03. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
+
+- **PASSOS DO TESTE:** 
+01. **PASSO01:** INSERIR DADOS DE USUÁRIO VÁLIDO (CPF)
+02. **PASSO02:** INSERIR SENHA INVÁLIDA
+03. **PASSO03:** CLICAR EM ENTRAR
+04. **PASSO04:** SISTEMA SUGERE ACESSO COM DADOS BIOMETRICO
+05. **PASSO05:** USUÁRIO USA OS DADOS BIOMETRICO
+04. **PASSO05:** AGUARDAR RESPOSTA DO SISTEMA
+05. **PASSO05:** SALDO DISPONIVEL NA TELA INICIAL
+
+- **RESULTADO ESPERADO:** SISTEMA DA ACESSO AO USUÁRIO COM SENHA INCORRETA MAS COM CADASTRO BIOMETRICO VÁLIDO E SALDO FICA DISPONIVEL NA TELA INICIAL
+- ---
+## ETAPA 3 - Escrever Testes de Aceitação  
+ **Foco em valor para usuário e expectativa do negócio**  
+- 2 testes de fluxo principal (caminho feliz)
+- 2 testes de fluxo alternativo
+ 
+**Estrutura obrigatória**
+  - ID, Título, Pre-condições, Passos, Resultado esperado
+  
+ **Orientações**
+- Resultado esperado focado em valor entregue
+- Critérios claros de aceitação
 ## FLUXO PRINCIPAL (caminho feliz)  
 ## ID: TESTE01  
 
@@ -117,4 +203,3 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 05. **PASSO05:** SALDO DISPONIVEL NA TELA INICIAL
 
 - **RESULTADO ESPERADO:** SISTEMA DA ACESSO AO USUÁRIO COM SENHA INCORRETA MAS COM CADASTRO BIOMETRICO VÁLIDO E SALDO FICA DISPONIVEL NA TELA INICIAL
-- ---
