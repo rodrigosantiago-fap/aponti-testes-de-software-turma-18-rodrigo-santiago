@@ -36,7 +36,7 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 - 2 testes de fluxo alternativo
  
 **Estrutura obrigatória**
-- ID, Título, Pre-condições, Passos, Resultado esperado
+- ID, Título, Pré-condições, Passos, Resultado esperado
 
 **Orientações**  
 - Foco no funcionamento do sistema
@@ -46,9 +46,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 ## FLUXO PRINCIPAL (caminho feliz)  
 ## ID: TESTE01  
 
-- **TITULO:** LOGIN COM CREDENCIAIS VALIDAS  
+- **TÍTULO:** LOGIN COM CREDENCIAIS VALIDAS  
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
 02. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
 
@@ -63,9 +63,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 ---
 ## ID: TESTE02  
 
-- **TITULO:** LOGIN COM BIOMETRIA
+- **TÍTULO:** LOGIN COM BIOMETRIA
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
 02. USUÁRIO ESTAR CADASTRADO COM BIOMETRIA 
 03. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
@@ -82,9 +82,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 
 ## ID: TESTE01  
 
-- **TITULO:** LOGIN COM ID DE USUÁRIO VÁLIDO E SENHA INVÁLIDA
+- **TÍTULO:** LOGIN COM ID DE USUÁRIO VÁLIDO E SENHA INVÁLIDA
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
 02. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
 
@@ -100,9 +100,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 
 - ## ID: TESTE02  
 
-- **TITULO:** LOGIN COM ID DE USUÁRIO VÁLIDO, SENHA INVÁLIDA E DADOS BIOMETRICOS VALIDO CADASTRADO
+- **TÍTULO:** LOGIN COM ID DE USUÁRIO VÁLIDO, SENHA INVÁLIDA E DADOS BIOMETRICOS VALIDO CADASTRADO
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO
 02. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM DADOS BIOMETRICO
 03. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK
@@ -124,7 +124,7 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 - 2 testes de fluxo alternativo
  
 **Estrutura obrigatória**
-  - ID, Título, Pre-condições, Passos, Resultado esperado
+  - ID, Título, Pré-condições, Passos, Resultado esperado
   
  **Orientações**
 - Resultado esperado focado em valor entregue
@@ -132,9 +132,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 ## FLUXO PRINCIPAL (caminho feliz)  
 ## ID: TESTE01  
 
-- **TITULO:** LOGIN COM ACESSSO RÁPIDO E CLARO AO SALDO DISPONIVEL 
+- **TÍTULO:** LOGIN COM ACESSSO RÁPIDO E CLARO AO SALDO DISPONIVEL 
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR CADASTRADO NA BASE DO SISTEMA COM LOGIN E SENHA VÁLIDO  
 
 - **PASSOS DO TESTE:** 
@@ -146,9 +146,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 ---
 ## ID: TESTE02  
 
-- **TITULO:** OCUTAÇÃO DA EXIBIÇÃO DO SALDO NA TELA INICIAL
+- **TÍTULO:** OCUTAÇÃO DA EXIBIÇÃO DO SALDO NA TELA INICIAL
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. **PASSO01:** INSERIR DADOS DE USUÁRIO (CPF) OU AGÊNCIA E CONTA E SENHA VÁLIDA
 02. **PASSO03:** CLICAR EM ENTRAR PARA CONFIRMAR ACESSO
 03. **PASSO05:** ACESSO A TELA INICIAL DO USUÁRIO E SALDO VIZIVEL
@@ -163,9 +163,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 
 ## ID: TESTE01  
 
-- **TITULO:** BLOQUEIO DO ACESSO DEVIDO ERRO DE SENHA
+- **TÍTULO:** BLOQUEIO DO ACESSO DEVIDO ERRO DE SENHA
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO ESTAR COM ACESSO AO APLICATIVO OU INTERNET BANK NA TELA DE LOGIN  
 
 - **PASSOS DO TESTE:** 
@@ -177,9 +177,9 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 
 ## ID: TESTE02  
 
-- **TITULO:** ERRO DE INDISPONIBILIDADE DE LOGIN USUÁRIO COM DADOS VÁLIDO
+- **TÍTULO:** ERRO DE INDISPONIBILIDADE DE LOGIN USUÁRIO COM DADOS VÁLIDO
 
-- **PRE-CONDIÇÕES:**
+- **PRÉ-CONDIÇÕES:**
 01. USUÁRIO REALIZA LOGIN COM ID E SENHA VÁLIDO
 02. SISTEMA COM INDISPONIBILIDADE MOMENTÂNEA
 
@@ -190,4 +190,16 @@ Praticar a criação, diferenciação e análise de casos de teste de sistema e 
 
 - **RESULTADO ESPERADO:** SISTEMA NÃO É ENCERRADO. EXIBE MENSAGEM CLARA NA TELA DO USUÁRIO INFORMANDO INDISPONIBILIDADE MOMENTÂNEA DO SISTEMA E QUE A EQUIPE DE SUPORTE ESTA TRABALHANDO PARA O RETORNO DO SERVIÇO
 ---
+## ETAPA 4 - Justificativa e Classificação
+**Para cada caso de teste criado, deve responder:**
+01. Por que este é um teste de sistema?
+02. Por que este é um teste de aceitação?
+- **Foco da justificativa:**  
+Objetivo do teste  
+Ponto de vista adotado  
+Tipo de validação realizada
+---
+## Testes de Sistema  
+## FLUXO PRINCIPAL (caminho feliz)   
+## ID: TESTE01 
 
