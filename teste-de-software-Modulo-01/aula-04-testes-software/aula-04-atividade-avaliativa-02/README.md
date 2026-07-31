@@ -216,9 +216,13 @@ Tipo de validação realizada
 
 ## ID: TESTE02  
 **JUSTIFICATIVA:** AVALIA O FLUXO ALTERNATIVO DA FUNCIONALIDADE LOGIN DO USUÁRIO COM SENHA INVÁLIDA E DADOS BIOMETRICO VÁLIDO INTEGRALMENTE DO PONTO DE VISTA DE UM USUÁRIO, EXECUTADO DE MANEIRA ESTRUTURADA E COM ANALISE AO COMPORTAMENTO ESPERDADO DA FUNCIONALIDADE. 
+---  
 
 ## Testes de Aceitação  
 ## FLUXO PRINCIPAL (caminho feliz)   
 
 ## ID: TESTE01  
-**JUSTIFICATIVA:**
+**JUSTIFICATIVA:** Esse é um teste de aceitação pois demonstra a facilidade da funcionalidade para o usuário e atende a necessidade do cliente pensando na satisfação do cliente.
+
+## ID: TESTE02  
+**JUSTIFICATIVA:** Esse é um teste de aceitação pois demonstra a utilidade da funcionalidade que entrega para o usuário privacidade no uso da aplicação e atende a necessidade do cliente pensando na satisfação gerando valor ao negócio.
