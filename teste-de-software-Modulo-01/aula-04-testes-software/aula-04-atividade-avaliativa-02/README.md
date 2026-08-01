@@ -199,7 +199,7 @@ Objetivo do teste
 Ponto de vista adotado  
 Tipo de validação realizada
 ---
-## Testes de Sistema  
+## TESTES DE SISTEMA
 ## FLUXO PRINCIPAL (caminho feliz)   
 
 ## ID: TESTE01  
@@ -208,8 +208,8 @@ Tipo de validação realizada
 ## ID: TESTE02  
 **JUSTIFICATIVA:** É um teste de sistema pois avalia a funcionalidade de validação biométrica demostrando o fluxo de forma estruturada pelo ponto de vista de um usuário e avalia a resposta da funcionalidade e fluxo correto.  
 
-## Testes de Sistema  
-## FLUXO PRINCIPAL (FLUXO ALTERNATIVO)  
+## TESTES DE SISTEMA
+## (FLUXO ALTERNATIVO)  
 
 ## ID: TESTE01  
 **JUSTIFICATIVA:** Avalia o fluxo alternativo da funcionalidade login do usuário com senha inválida integralmente pelo ponto de vista de um usuário, está sendo executado de maneira estruturada. 
@@ -219,7 +219,7 @@ Tipo de validação realizada
 
 ---  
 
-## Testes de Aceitação  
+## TESTES DE ACEITAÇÃO 
 ## FLUXO PRINCIPAL (caminho feliz)   
 
 ## ID: TESTE01  
@@ -228,10 +228,11 @@ Tipo de validação realizada
 ## ID: TESTE02  
 **JUSTIFICATIVA:** Esse é um teste de aceitação pois demonstra a utilidade da funcionalidade que entrega para o usuário privacidade no uso da aplicação e atende a necessidade do cliente pensando na satisfação gerando valor ao negócio.
 
+## TESTES DE ACEITAÇÃO 
 ## FLUXO ALTERNATIVO   
 
 ## ID: TESTE01  
 **JUSTIFICATIVA:** Teste de aceitação que é voltado na experiência segura do usuário que utiliza a aplicação pois assegura que em casos de acessos não autorizados a aplicação demostra eficiência garantindo que os dados do cliente não ficaram expostos.
 
-## ID: TESTE01  
+## ID: TESTE02  
 **JUSTIFICATIVA:** Teste de aceitação que demonstra o comportamento do sistema em um cenário de indisponibilidade e seu comportamento diante do usuário explicando com clareza como o cliente deve se comporta diante desse comportamento do sistema.
