@@ -229,7 +229,7 @@ Tipo de validação realizada
 **JUSTIFICATIVA:** Esse é um teste de aceitação pois demonstra a utilidade da funcionalidade que entrega para o usuário privacidade no uso da aplicação e atende a necessidade do cliente pensando na satisfação gerando valor ao negócio.
 
 ## TESTES DE ACEITAÇÃO 
-## FLUXO ALTERNATIVO   
+## (FLUXO ALTERNATIVO)   
 
 ## ID: TESTE01  
 **JUSTIFICATIVA:** Teste de aceitação que é voltado na experiência segura do usuário que utiliza a aplicação pois assegura que em casos de acessos não autorizados a aplicação demostra eficiência garantindo que os dados do cliente não ficaram expostos.
