@@ -203,10 +203,10 @@ Tipo de validação realizada
 ## FLUXO PRINCIPAL (caminho feliz)   
 
 ## ID: TESTE01  
-**JUSTIFICATIVA:** É UM TESTE DE SISTEMA POIS É ESTRUTURADO SEMELHANTE AO AMBIENTE DE PRODUÇÃO APLICADO A FUNCIONALIDADE DE LOGIN E ESTÁ SENDO VISTO DO PONTO DE VISTA DO USUÁRIO TESTANDO A FUNCIONALIDADE DO INÍCIO AO FINAL E SEU COMPORTAMENTO ESPERADO.  
+**JUSTIFICATIVA:** É um teste de sistema pois é estruturado semelhante ao ambiente de produção aplicado a funcionalidade de login e esta sendo visto do ponto de vista do usuário, testando a funcionalidade do início ao final e seu comportamento esperado. 
 
 ## ID: TESTE02  
-**JUSTIFICATIVA:** É UM TESTE DE SISTEMA POIS AVALIA A FUNCIONALIDADE DE VALIDAÇÃO BIOMETRICA DEMONSTRANDO O FLUXO FORMA ESTRUTURADA PELO PONTO DE VISTA DE UM USUÁRIO E AVALIA A RESPOSTA DA FUNCIONALIDADE E FLUXO CORRETO.  
+**JUSTIFICATIVA:** É um teste de sistema pois avalia a funcionalidade de validação biométrica demostrando o fluxo de forma estruturada pelo ponto de vista de um usuário e avalia a resposta da funcionalidade e fluxo correto.  
 
 ## Testes de Sistema  
 ## FLUXO PRINCIPAL (FLUXO ALTERNATIVO)  
