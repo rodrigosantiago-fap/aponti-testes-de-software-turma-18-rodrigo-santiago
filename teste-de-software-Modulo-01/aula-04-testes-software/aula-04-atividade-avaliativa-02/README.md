@@ -212,10 +212,11 @@ Tipo de validação realizada
 ## FLUXO PRINCIPAL (FLUXO ALTERNATIVO)  
 
 ## ID: TESTE01  
-**JUSTIFICATIVA:** AVALIA O FLUXO ALTERNATIVO DA FUNCIONALIDADE LOGIN DO USUÁRIO COM SENHA INVÁLIDA INTEGRALMENTE DO PONTO DE VISTA DE UM USUÁRIO, EXECUTADO DE MANEIRA ESTRUTURADA. 
+**JUSTIFICATIVA:** Avalia o fluxo alternativo da funcionalidade login do usuário com senha inválida integralmente pelo ponto de vista de um usuário, está sendo executado de maneira estruturada. 
 
 ## ID: TESTE02  
-**JUSTIFICATIVA:** AVALIA O FLUXO ALTERNATIVO DA FUNCIONALIDADE LOGIN DO USUÁRIO COM SENHA INVÁLIDA E DADOS BIOMETRICO VÁLIDO INTEGRALMENTE DO PONTO DE VISTA DE UM USUÁRIO, EXECUTADO DE MANEIRA ESTRUTURADA E COM ANALISE AO COMPORTAMENTO ESPERDADO DA FUNCIONALIDADE. 
+**JUSTIFICATIVA:** Avalia o fluxo alternativo da funcionalidade login do usuário com senha invalida e dados biométricos válido integralmente do ponto de vista de um usuário, executado de maneira estruturada e ao comportamento esperado da funcionalidade.
+
 ---  
 
 ## Testes de Aceitação  
@@ -226,3 +227,11 @@ Tipo de validação realizada
 
 ## ID: TESTE02  
 **JUSTIFICATIVA:** Esse é um teste de aceitação pois demonstra a utilidade da funcionalidade que entrega para o usuário privacidade no uso da aplicação e atende a necessidade do cliente pensando na satisfação gerando valor ao negócio.
+
+## FLUXO ALTERNATIVO   
+
+## ID: TESTE01  
+**JUSTIFICATIVA:** Teste de aceitação que é voltado na experiência segura do usuário que utiliza a aplicação pois assegura que em casos de acessos não autorizados a aplicação demostra eficiência garantindo que os dados do cliente não ficaram expostos.
+
+## ID: TESTE01  
+**JUSTIFICATIVA:** Teste de aceitação que demonstra o comportamento do sistema em um cenário de indisponibilidade e seu comportamento diante do usuário explicando com clareza como o cliente deve se comporta diante desse comportamento do sistema.
