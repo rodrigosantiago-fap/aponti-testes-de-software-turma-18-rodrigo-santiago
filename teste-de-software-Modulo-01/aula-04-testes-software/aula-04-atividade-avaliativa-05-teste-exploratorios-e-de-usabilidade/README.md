@@ -19,5 +19,5 @@
 04. NÃO USO AUTOMATICO DE VIRGULA NA FORMATAÇÃO DE VALORES
 05. NÃO RECEBIMENTO DE NOTIFICACÃO OU CONFIRMAÇÃO APÓS UMA TRANSAÇÃO RECEBIDA OU REALIZADA
 
-- **Explique por que esses problemas impactam o usuário?**
-  Esses problemas impactam o usuário pois podem influenciar na escolha por usar ou não o sistema pensando na facilidade das funcionalidades que o usuário espera para o uso na sua rotina, o usuário também precisa sentir segurança quando estiver usando o sistema em um computador ou dispositivo móvel assim como sempre ser comunicado com clareza quando realizar alguma operação dentro da sua conta.
+- **Explique por que esses problemas impactam o usuário?**  
+  Esses problemas impactam o usuário pois podem influenciar na escolha por usar ou não o sistema pensando na facilidade das funcionalidades que o usuário espera para o uso na sua rotina, o usuário também precisa sentir segurança quando estiver usando o sistema em um computador ou dispositivo móvel assim como também espera ser comunicado com clareza quando alguma operação e realizada dentro da sua conta.
