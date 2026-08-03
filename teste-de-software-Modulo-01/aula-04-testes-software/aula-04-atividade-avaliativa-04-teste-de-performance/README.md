@@ -7,7 +7,8 @@
 4. Esse cenário se aproxima mais de Carga, Stress ou Capacidade?
 5. O que você recomendaria ao time técnico?
 ---
-**RELATORIO TESTE DE PERFORMANCE TELA DE LOGIN E TELA INICIAL**  
+### RELATORIO TESTE DE PERFORMANCE TELA DE LOGIN E TELA INICIAL   
+
 **PROJETO:** NOVO SOFTWARE SISTEMA BANCARIO  
 **FASE DO PROJETO:** TELA DE LOGIN / TELA INICIAL  
 **OBJETIVO:** AVALIAÇÃO DO SISTEMA EM CONDIÇÃO NORMAL DE USO E CAPACIDADE MAXIMA SUPORTADA ULTILIZANDO PROGRESSIVAMENTE O LIMITE MAXIMO DE ATÉ 50 USUÁRIO SIMULTÂNEOS E IDENTIFICANDO OS NIVEIS ACEITÁVEIS DE ULTILIZAÇÃO NOS TESTES INICAIS DE PERFORMANCE.  
@@ -18,8 +19,8 @@
 **TAXA DE ERRO:** O SISTEMA REALIZOU COM BOA ESTABILIDADE QUANDO ATÉ 25 USUÁRIOS SIMULTÂNEOS REALIZANDO REQUISIÇÕES COM TAXA DE ERRO 0,4% E QUANDO ACIMA DE 26 USUÁRIOS AO LIMITE DE 50 USUÁRIOS SIMULTANEOS A TAXA DE ERROS FICOU ENTRE 2,7% E 4,5% DEMONSTRANDO UM LIMITE DE ACEITAÇÃO.  
 
 Responder:  
-- O sistema pode ser considerado aprovado?
-Pode ser parcialmente considerado aprovado, o sistema precisa ainda de melhoramentos para suportar mais acessos simultâneos entre 30 e 50 usuários com qualidade.
+- O sistema pode ser considerado aprovado?  
+Pode ser parcialmente considerado aprovado, com pontos de melhoria o sistema precisa ainda de melhoramentos para suportar mais acessos simultâneos entre 30 e 50 usuários com qualidade.
 
 - Quais métricas indicam problemas de performance?  
 O tempo de resposta, o uso da memória e a taxa de erro quando acima de 35 acessos simultâneos indicam problemas de performance.
