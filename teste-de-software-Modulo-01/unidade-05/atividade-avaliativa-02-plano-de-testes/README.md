@@ -10,11 +10,18 @@
 
 ### Criar um plano de testes resumido, contendo:
 1. Escopo de Testes
+
 2. Tipos de Teste Aplicados
+  Validar autenticação de login e integração para tela inicial e suas funcionalidades.
+
 3. Critérios de Entrada e Saída
+
 4. Ambiente de Testes
+
 5. Recursos e Responsabilidades
+
 6. Cronograma Básico
+
 7. Riscos e Contingências
 
 
