@@ -1,4 +1,4 @@
-# ATIVIDADE AVALIATIVA: ESTRATÉGIA DE TESTES
+# ATIVIDADE AVALIATIVA: ESTRATÉGIA DE TESTES (PARTE01)
 
 ### Com base no cenário apresentado, crie uma estratégia de testes contendo os itens abaixo
 - **Objetivo da estratégia**
