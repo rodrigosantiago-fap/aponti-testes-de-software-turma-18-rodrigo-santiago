@@ -10,7 +10,7 @@
 - Conta com um time reduzido
 - Sofrerá evoluções e correções ao longo do projeto
 ---
-ESTRATÉGIA DE TESTES (PARTE02)
+ESTRATÉGIA DE TESTES (PARTE01)
 
 ### Com base no cenário apresentado, crie uma estratégia de testes contendo os itens abaixo
 - **Objetivo da estratégia**
@@ -34,7 +34,7 @@ Testes de carga, stress, capacidade
 Os testes estão priorizando o estagio atual do projeto a tela de login e a tela inicial priorizando o funcionamento das funcionalidades, minimizando erros que podem causar riscos aos usuários reais gerando impacto ao negocio.
 ---
 
-ESTRATÉGIA DE TESTES(PARTE03)
+ESTRATÉGIA DE TESTES(PARTE02)
 
 ### Com base no cenário apresentado, crie uma estratégia de testes contendo os itens abaixo
 
@@ -54,4 +54,17 @@ Testes incompletos devido ao período curto de tempo e equipe reduzida ocasionan
 
 3. Como a estratégia de testes ajuda a reduzir esses riscos?  
 Os testes são direcionados para a estabilidade do sistema priorizando que suas principais funcionalidade fiquem disponível, a autenticação e acesso a tela inicial tem maior prioridade que a interface do sistema.
+---
+ESTRATÉGIA DE TESTES(PARTE03)  
+
+### Com base no cenário apresentado, crie uma estratégia de testes contendo os itens abaixo  
+
+- Recursos e Cronograma
+1. Quantas pessoas estarão envolvidas nos testes?
+
+3. Em que momentos do projeto os testes ocorrerão?
+Durante final das etapas do desenvolvimento do sistema.
+
+5. Os testes serão contínuos ou concentrados em fases específicas?
+Testes contínuos e sempre que novas funcionalidades sejam implementadas.
 
