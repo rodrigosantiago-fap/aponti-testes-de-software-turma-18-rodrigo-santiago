@@ -31,7 +31,7 @@ Testes não funcionais (Performance, carga, capacidade, stress, compatibilidade,
 Testes de carga, stress, capacidade
 
 5. Justifique às escolhas com base em risco e contexto  
-Os testes estão priorizando o estagio atual do projeto a tela de login e a tela inicial priorizando o funcionamento das funcionalidades, minimizando erros que podem causar riscos aos usuários reais gerando impacto ao negocio.
+Os testes estão priorizando o estagio atual do projeto a tela de login e a tela inicial priorizando acesso seguro, funcionamento das funcionalidades, minimizando erros que podem causar riscos aos usuários reais gerando impacto negativo ao negocio.
 ---
 
 ESTRATÉGIA DE TESTES(PARTE02)
@@ -43,17 +43,17 @@ ESTRATÉGIA DE TESTES(PARTE02)
 Testes funcionais, Testes exploratórios, usabilidade, testes de sistema
 
 3. Quais poderão ser automatizados?  
-Testes de performance, carga, capacidade, stress, testes de regressão
+Testes de performance, carga, capacidade, stress, smoke e testes de regressão
 
 5. Por que essa combinação foi escolhida?  
 Equilibrar a combinação dos testes e dar agilidade não comprometendo a estabilidade do projeto.
 
 - **Riscos e Mitigação**
 1. Quais são os principais riscos do sistema?  
-Testes incompletos devido ao período curto de tempo e equipe reduzida ocasionando erros ou falhas nas funcionalidades 
+Testes incompletos devido ao período curto de tempo e equipe reduzida ocasionando erros ou falhas nas funcionalidades como falhas de regressão. 
 
 3. Como a estratégia de testes ajuda a reduzir esses riscos?  
-Os testes são direcionados para a estabilidade do sistema priorizando que suas principais funcionalidade fiquem disponível, a autenticação e acesso a tela inicial tem maior prioridade que a interface do sistema.
+Os testes são direcionados para a estabilidade e segurança do sistema priorizando que suas principais funcionalidade fiquem disponível sem apresentar falhas de segurança, a autenticação e acesso a tela inicial tem maior prioridade que a interface do sistema.
 ---
 ESTRATÉGIA DE TESTES(PARTE03)  
 
@@ -61,10 +61,10 @@ ESTRATÉGIA DE TESTES(PARTE03)
 
 - Recursos e Cronograma
 1. Quantas pessoas estarão envolvidas nos testes?  
-
+6 pessoas
 3. Em que momentos do projeto os testes ocorrerão?  
-Durante final das etapas do desenvolvimento do sistema.
+Durante o desenvolvimento e ao final das etapas do desenvolvimento do sistema.
 
 5. Os testes serão contínuos ou concentrados em fases específicas?  
-Testes contínuos e sempre que novas funcionalidades sejam implementadas.
+Testes contínuos e sempre que novas funcionalidades sejam implementadas ou corrigidas.
 
