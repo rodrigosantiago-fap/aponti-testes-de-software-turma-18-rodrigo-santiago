@@ -51,6 +51,7 @@ Testes de performance, carga, capacidade, stress, smoke e testes de regressão
 Equilibrar a combinação dos testes e dar agilidade não comprometendo a estabilidade do projeto.
 
 - **Riscos e Mitigação**
+
 **1. Quais são os principais riscos do sistema?**  
 Testes incompletos devido ao período curto de tempo e equipe reduzida ocasionando erros ou falhas nas funcionalidades como falhas de regressão. 
 
@@ -62,7 +63,7 @@ Os testes são direcionados para a estabilidade e segurança do sistema prioriza
 
 ### Com base no cenário apresentado, crie uma estratégia de testes contendo os itens abaixo  
 
-- Recursos e Cronograma
+- **Recursos e Cronograma**  
 
 **1. Quantas pessoas estarão envolvidas nos testes?**  
 Até 6 pessoas
