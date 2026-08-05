@@ -16,7 +16,7 @@ ESTRATÉGIA DE TESTES (PARTE01)
 - **Objetivo da estratégia**
 
 1. O que é mais importante garantir com os testes?  
-Garantir a usabilidade do sistema, suas principais funcionalidades, permitir que o usuário tenha acesso a tela de login e chegar na tela inicial com segurança e sem erros entende com facilidade o contexto do sistema e atenda sua necessidade também é importante garantir que o sistema atende a necessidade do negocio.
+Garantir a usabilidade do sistema, suas principais funcionalidades, permitir que o usuário tenha acesso a tela de login e chegar na tela inicial com segurança e sem erros entende com facilidade o contexto do sistema e atenda sua necessidade também é importante garantir que o sistema atende a necessidade do negócio.
 
 3. Quais aspectos do sistema merecem maior atenção?  
 Identificação correta de dados de login e senha, mudança de tela dinâmica e com informações corretas e sem erros.
@@ -31,7 +31,7 @@ Testes não funcionais (Performance, carga, capacidade, stress, compatibilidade,
 Testes de carga, stress, capacidade
 
 5. Justifique às escolhas com base em risco e contexto  
-Os testes estão priorizando o estagio atual do projeto a tela de login e a tela inicial priorizando acesso seguro, funcionamento das funcionalidades, minimizando erros que podem causar riscos aos usuários reais gerando impacto negativo ao negocio.
+Os testes estão priorizando o estágio atual do projeto a tela de login e a tela inicial priorizando acesso seguro, funcionamento das funcionalidades, minimizando erros que podem causar riscos aos usuários reais gerando impacto negativo ao negócio.
 ---
 
 ESTRATÉGIA DE TESTES(PARTE02)
