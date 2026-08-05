@@ -10,8 +10,8 @@
 
 ### Criar um plano de testes resumido, contendo:
 1. Escopo de Testes
-- **Tela de login:** Id de usuário e senha / válidação / bloqueios
-- **Tela Inicial:** Exibição correta de dados / saldo exibido e oculto / acesso a funcionalidades(pix, extrato, cartão, sair e outros).
+- **Tela de login:** Id de usuário e senha / validação / bloqueios
+- **Tela Inicial:** Exibição correta de dados / saldo exibido e oculto / acesso a funcionalidades (pix, extrato, cartão, sair e outros).
 
 2. Tipos de Teste Aplicados  
 Testes funcionais (Caixa-preta, Testes de sistema, Testes de Aceitação).  
