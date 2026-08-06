@@ -6,12 +6,12 @@ OBS: Esta ferramenta poderá ser diferente de acordo com a empresa dos residente
 
 # Atividade Avaliativa:
 - Cadastro de Casos de Teste
-- Os casos a serem migrados devem conter todas às informações obrigatórias e necessárias em cada sistema.
-ID (Geralmente é automático)
-Titulo
-Pré-condições
-Passos
-Resultado esperado
+- Os casos a serem migrados devem conter todas às informações obrigatórias e necessárias em cada sistema.  
+ID (Geralmente é automático)  
+Titulo  
+Pré-condições  
+Passos  
+Resultado esperado  
 
 # Atividade Avaliativa:
 - Montagem de Ciclo de Testes
